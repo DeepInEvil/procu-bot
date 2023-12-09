@@ -1,0 +1,5 @@
+ctransformers
+streamlit
+rapidfuzz
+spacy
+nltk
